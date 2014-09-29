@@ -1,0 +1,19 @@
+{
+
+  // Java verticle
+  "main":"spike.vertx.ChatVerticle",
+
+  // If your module is going to be registered in the Vert.x module registry you will also need the following
+  // mandatory fields
+  "description":"Put description of your module here",
+  "licenses": ["The Apache Software License Version 2.0"],
+  "author": "Fullbox",
+
+  // Optional fields
+  "developers": ["Fullbox"],
+  "keywords": ["spike", "chat"],
+  "homepage": "url to your project page",
+
+  "auto-redeploy": true
+
+}
